@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class NewBrunch {
+public class NewBrunch {
+    public static void main(String[] args) {
+        System.out.println("Brunch");
+    }
 }
